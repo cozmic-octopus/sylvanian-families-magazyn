@@ -41,7 +41,7 @@ projekt_programowanie_rozproszone/
 ### 1. Pobranie repozytorium
 
 ```bash
-git clone ADRES_REPOZYTORIUM
+git clone https://github.com/cozmic-octopus/sylvanian-families-magazyn.git
 cd projekt_programowanie_rozproszone
 ```
 
